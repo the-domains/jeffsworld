@@ -1,0 +1,28 @@
+name: Jeffsworld
+favicon: null
+layout_spectrum: 0.007279261946678162
+typography_spectrum: 0.07170225074514747
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.19532271288335323
+  lightness: 0.9653140578884631
+  saturation: 0.00901047233492136
+  rhythmicContrast: 0.7752273073419929
+purpose: []
